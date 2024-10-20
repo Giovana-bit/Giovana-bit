@@ -28,11 +28,6 @@
 
 </div>
 
-<div align="center" >
-   
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/Giovana-bit?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&weeks=30&theme=purple) 
-
-</div>
 
 ### Skills principais:
 <div align="left"> 
@@ -89,4 +84,4 @@
 <br>
 </div>
 
-<img width=100% src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/dfadbae0-104e-4deb-9719-1ed3c82542c5"/>
+<img width=100% src="https://github.com/user-attachments/assets/43ab03cb-0558-4c42-88fe-a9072b355711"/>
