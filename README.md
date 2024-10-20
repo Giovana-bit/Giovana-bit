@@ -69,9 +69,9 @@
 
 <img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/cd16de8c-75cc-474d-84e9-fb6cbc6043fb">
 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bea3fe91-c320-4c5f-918e-fa6abe8ec1cc">
+<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/37118add-e92c-4c53-9a80-da4292077d1a">
 
-<img align="left"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d7b8d42-878a-4d07-aebc-f2af02475be6">
+<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/a82af3a6-53fb-43ed-bb92-3cef6cfad4f5">
 
 </div>
 
@@ -82,9 +82,11 @@
 <br>
 <br>
 
-<p align="centre"><b>Visitors Count</b></p> 
+<p align="centre"><b>Visitantes: </b></p> 
   
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fcarolbarbosa101&s=50&c=db006a&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FGiovana-bit&s=50&c=501282&bg=00000000&no=2&ff=digi&tb=&ta=" alt="visits"></p> 
+<br>
 <br>
 </div>
 
+<img width=100% src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/dfadbae0-104e-4deb-9719-1ed3c82542c5"/>
