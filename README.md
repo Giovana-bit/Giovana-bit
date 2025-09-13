@@ -19,7 +19,7 @@ Hi there! I'm <b>Giovana Santos!</b>
 <br>
 
 <div align="center">
-  <img src="https://i.imgur.com/udE72Bn.png" height="250" />
+  <img src="https://i.imgur.com/udE72Bn.png" height="150" />
 </div>
         
 <br>
