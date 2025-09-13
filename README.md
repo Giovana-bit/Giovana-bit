@@ -3,7 +3,6 @@
 <br>
 
 <div align="center">
-
 <b>`Bem vindo(a)!`</b>
 <samp>
 <br>
@@ -15,11 +14,10 @@ Hi there! I'm <b>Giovana Santos!</b>
   <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ff79c6&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Engineering+Computing+and+Software;Be+welcome!" alt="Typing SVG"/>
 </div>
 
-
 <br>
 
 <div align="center">
-  <img src="https://i.imgur.com/udE72Bn.png" height="150" />
+  <img src="https://i.imgur.com/udE72Bn.png" height="200" />
 </div>
         
 <br>
@@ -31,26 +29,28 @@ Hi there! I'm <b>Giovana Santos!</b>
 
 </div>
 
-<!-- Sequência de Skills -->
-<div align="center" style="display: inline_block"><br>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<!-- Principal Skills -->
+<div align="center">
+  <samp style="font-size:22px; color:#ff79c6;"><b>Principal Skills:</b></samp>
+  <div style="display: inline_block;">
+    <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+    <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+    <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+    <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+    <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+    <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+    <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+    <img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  </div>
 </div>
 
-<br>
 <br>
 
 <details align="center">  
   <summary>
-      <samp>
+      <samp style="font-size:22px;">
         <b>More Info</b>
       </samp>
   </summary>
@@ -70,15 +70,11 @@ Hi there! I'm <b>Giovana Santos!</b>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-6e3a5d?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/giovana-dos-santos-silva-164259285/)
 
 </div>
-
-
-
 </details>
 
 <br>
 
 <div align="center">
-
 <img height=180 align="center" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Giovana-Bit&theme=jolly"/>
 <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovana-Bit&layout=compact&font=Iosevka&langs_count=16&theme=jolly"/>
 <br>
@@ -89,12 +85,10 @@ Hi there! I'm <b>Giovana Santos!</b>
 <br>
 
 <div align="center">
-
 <p align="center"><b>Visitantes: </b></p> 
 <p align="center">
   <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FGiovana-Bit&s=50&c=ff79c6&bg=00000000&no=2&ff=digi&tb=&ta=" alt="visits">
 </p> 
-
 </div>
 
 <br>
