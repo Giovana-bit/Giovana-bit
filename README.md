@@ -1,89 +1,102 @@
-<img width=100% bottom=50px src="https://github.com/user-attachments/assets/43e270e1-0e73-4b2c-840f-bf2bd513531d"/>
-<br>
-<br> 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=34&pause=1000&color=62188A&width=435&lines=Ol%C3%A1%2C+me+chamo+Giovana;Fullstack+Developer;Bem-vindo!)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ff79c6"/>
 
 <br>
-<br>
-
-<div align="center"> 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Giovana-bit&theme=modern-lilac2&locale=pt_BR&card_width=800&card_height=250)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center"> 
-<a href="https://www.instagram.com/ops.gibs/?next=%2F" target="_blank">
-<img align="center" height="84" width="84" src="https://github.com/user-attachments/assets/f398ed8d-a10b-4df1-bdaa-b0ade4b06b53">
-</a>
-
-<a href="https://github.com/Giovana-bit" target="_blank">
-<img align="center" height="80" width="80" src="https://github.com/user-attachments/assets/3c83b18b-6a00-4e35-b964-0cadc96fe7ef">
-</a>
-
-<a  href="https://www.linkedin.com/in/giovana-dos-santos-silva-164259285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target=_blank>
-<img align="center"  height="80" width="80" src="https://github.com/user-attachments/assets/02e8cdad-7f8e-49a7-893b-dce5b8d51ff2">
-</a>
-
-</div>
-
-
-### Skills principais:
-<div align="left"> 
-<img align="left" height="84" width="84" src="https://github.com/user-attachments/assets/4f36a407-019f-4dc3-8196-4f74fdf4057d">
-
-<img align="left" height="80" width="80" src="https://github.com/user-attachments/assets/cd16de8c-75cc-474d-84e9-fb6cbc6043fb">
-
-<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/f6aeb94e-550c-4735-ac9b-31dc0b395923">
-
-<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/ec5459a4-4202-48f9-be2c-9283ed8e2216">
-
-<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/dbd9d946-93cb-4d28-837d-68fbc6b0937a">
-
-<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/c8fae935-cd8c-49e0-af87-f846492765a2">
-
-<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/a82af3a6-53fb-43ed-bb92-3cef6cfad4f5">
-
-</div>
-
-<br>
-<br> 
-<br>
-<br>
-<br>
-<br> 
-
-
-<h2 align="left"> Estudando no momento: </h2>
-
-
-<div align="left"> 
-
-<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/c8fae935-cd8c-49e0-af87-f846492765a2">
-
-<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/ec5459a4-4202-48f9-be2c-9283ed8e2216">
-
-<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/cd16de8c-75cc-474d-84e9-fb6cbc6043fb">
-
-<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/37118add-e92c-4c53-9a80-da4292077d1a">
-
-<img align="left"  height="80" width="80" src="https://github.com/user-attachments/assets/a82af3a6-53fb-43ed-bb92-3cef6cfad4f5">
-
-</div>
 
 <div align="center">
-  
-<br>
-<br>
-<br>
-<br>
 
-<p align="centre"><b>Visitantes: </b></p> 
-  
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FGiovana-bit&s=50&c=501282&bg=00000000&no=2&ff=digi&tb=&ta=" alt="visits"></p> 
+<b>`Bem vindo(a)!`</b>
+<samp>
 <br>
-<br>
+Hi there! I'm <b>Giovana Santos!</b>
+</samp>
 </div>
 
-<img width=100% src="https://github.com/user-attachments/assets/43ab03cb-0558-4c42-88fe-a9072b355711"/>
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ff79c6&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Engineering+Computing+and+Software;Be+welcome!" alt="Typing SVG"/>
+</div>
+
+
+<br>
+
+<div align="center">
+  <img src="https://i.imgur.com/udE72Bn.png" height="250" />
+</div>
+        
+<br>
+<br>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Giovana-bit&theme=tokyonight&locale=pt_BR&card_width=800&card_height=250&ring=ff79c6&fire=ff79c6&currStreakLabel=ff79c6)](https://git.io/streak-stats)
+
+</div>
+
+<!-- Sequência de Skills -->
+<div align="center" style="display: inline_block"><br>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+</div>
+
+<br>
+<br>
+
+<details align="center">  
+  <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+  </summary>
+
+<br>
+
+<div align="center">
+  <samp>
+    <b>
+      Contact me:
+    </b>
+  </samp>
+  <br>
+  <br>
+
+[![Gmail](https://img.shields.io/badge/Gmail-6e3a5d?style=for-the-badge&logo=gmail&logoColor=fff)](https://mail.google.com/mail/u/4/#inbox?compose=VpCqJQwlVghczmhdpJXmZfNLbXdLgzQXglQMRCdgRGSPtzvzPJPZnGhSnNTDHvLQqlxzSbq)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-6e3a5d?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/giovana-dos-santos-silva-164259285/)
+
+</div>
+
+
+
+</details>
+
+<br>
+
+<div align="center">
+
+<img height=180 align="center" alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Giovana-Bit&theme=jolly"/>
+<img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giovana-Bit&layout=compact&font=Iosevka&langs_count=16&theme=jolly"/>
+<br>
+<br>
+<img align="center" alt="Resumo" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Giovana-Bit&theme=jolly"/>
+</div>
+
+<br>
+
+<div align="center">
+
+<p align="center"><b>Visitantes: </b></p> 
+<p align="center">
+  <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FGiovana-Bit&s=50&c=ff79c6&bg=00000000&no=2&ff=digi&tb=&ta=" alt="visits">
+</p> 
+
+</div>
+
+<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff79c6&height=100&section=footer"/>
